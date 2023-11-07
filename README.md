@@ -1,6 +1,6 @@
 <b>Zipprr -  Airbnb Clone</b>
 
-Zipprr's <a href="https://zipprr.com/category/airbnb-clone/">Airbnb Clone Script</a> is a readymade online marketplace solution for property owners and travelers. It offers a complete set of features for listing homes, searching and booking accommodations, payment processing and customer relationship management. Property managers can launch their rental business with advanced functionalities that follow Airbnb model.
+Zipprr's <a href="https://zipprr.com/airbnb-clone/">Airbnb Clone Script</a> is a readymade online marketplace solution for property owners and travelers. It offers a complete set of features for listing homes, searching and booking accommodations, payment processing and customer relationship management. Property managers can launch their rental business with advanced functionalities that follow the Airbnb model.
 
 <b>Features</b>
 
